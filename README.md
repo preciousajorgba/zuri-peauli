@@ -1,1 +1,1 @@
-# zuri-peauli
+# zuri-peauli django project
